@@ -1,3 +1,5 @@
+# rock paper scissor game using random module in python
+
 import random
 
 rock = '''
